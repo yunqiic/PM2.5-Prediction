@@ -1,12 +1,5 @@
 #!/usr/bin/env python
 # encoding: utf-8
-"""
-@author: HeWenYong
-@contact: 1060667497@qq.com
-@software: Pycharm
-@file: train.py
-@time: 2020/10/27 16:34
-"""
 
 import numpy as np
 import pandas as pd

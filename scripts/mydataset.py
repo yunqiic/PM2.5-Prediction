@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-"""
-@author: HeWenYong
-@contact: 1060667497@qq.com
-@software: Pycharm
-@file: mydataset.py
-@time: 2020/10/27 15:38
-"""
+
 import numpy as np
 from torch.utils.data import Dataset
 import pandas as pd

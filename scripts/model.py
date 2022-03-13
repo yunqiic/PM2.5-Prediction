@@ -1,12 +1,5 @@
 #!/usr/bin/env python
 # encoding: utf-8
-"""
-@author: HeWenYong
-@contact: 1060667497@qq.com
-@software: Pycharm
-@file: model.py
-@time: 2020/10/27 17:01
-"""
 
 import torch
 from torch import nn
