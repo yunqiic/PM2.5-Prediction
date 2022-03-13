@@ -31,7 +31,8 @@
     Readme.md介绍文档
  
 ## 运行方法
-    python ./scripts/train.py
+    cd scripts/
+    python train.py
     
 ## 结果图
 ![损失结果](https://github.com/S16201512/PM2.5-Prediction/blob/master/result.png)
