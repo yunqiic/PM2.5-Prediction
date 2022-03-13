@@ -12,8 +12,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from torch.utils.data import DataLoader
-from scripts.mydataset import MyDataset
-from scripts.model import MyLinearRegression
+from mydataset import MyDataset
+from model import MyLinearRegression
 import torch
 # 设置numpy数组显示数据完全输出
 np.set_printoptions(threshold=None)
